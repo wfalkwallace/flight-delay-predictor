@@ -1,1 +1,1 @@
-https://xcitech.github.io/tutorials/heroku_tutorial/
+from https://xcitech.github.io/tutorials/heroku_tutorial/
